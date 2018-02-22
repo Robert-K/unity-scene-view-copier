@@ -1,4 +1,4 @@
-# unity-scene-view-copier
+# Unity Scene View Copier
 Copies Scene View properties to Camera components. Speeds up camera positioning in [Unity](https://unity3d.com/).
 
 ## Features
