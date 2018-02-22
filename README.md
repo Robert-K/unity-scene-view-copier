@@ -17,5 +17,3 @@ Simply add [SceneViewCopier.cs](SceneViewCopier.cs) to your project. A box conta
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-The included sIBL images are from [sIBL Archive](http://www.hdrlabs.com/sibl/archive.html).
