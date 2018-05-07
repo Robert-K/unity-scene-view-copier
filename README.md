@@ -13,7 +13,7 @@ Copies Scene View properties to Camera components. Speeds up camera positioning 
 ![sceneviewcopier_screenshot](https://user-images.githubusercontent.com/34353377/36560476-1ec99042-1811-11e8-92e5-0250c8134476.jpg)
 
 ## How to use
-Simply add [SceneViewCopier.cs](SceneViewCopier.cs) to your project. A box containing the controls will appear under every Camera component editor.
+Simply add [SceneViewCopier.cs](SceneViewCopier.cs) to your project ([Editor folder](https://docs.unity3d.com/Manual/SpecialFolders.html)). A box containing the controls will appear under every Camera component editor.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
