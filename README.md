@@ -17,3 +17,5 @@ Simply add [SceneViewCopier.cs](SceneViewCopier.cs) to your project ([Editor fol
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
